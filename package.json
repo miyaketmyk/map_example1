@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://geoloniamaps.github.io/pwamap/",
+  "homepage": "https://miyaketmyk.github.io/map_example1/",
   "eslintConfig": {
     "extends": "react-app"
   },
