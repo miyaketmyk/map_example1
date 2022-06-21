@@ -1,7 +1,138 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "本社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "35.63029988",
+      "139.789581",
+      "本社",
+      "〒135-0063 　江東区有明3-4-10 TFTビル西館\r\n電話：03-5579-6278(代) ／FAX：03-5579-6444",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1684.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "営業所",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "43.06223645",
+      "141.3462401",
+      "北海道支社\r\n",
+      "〒060-0001 北海道札幌市中央区北１条西７丁目１　プレスト1・7　2F\r\n電話：011-231-3445／FAX：011-231-3509",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1688.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "支社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "41.78914802",
+      "140.749885",
+      "函館営業所",
+      "〒040-0011　函館市本町6-7　函館第一生命ビルディング ３Ｆ\n電話：0138-51-0886／FAX：0138-31-0198",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1689.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "支社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "38.26708119",
+      "140.8768482",
+      "東北支社\r",
+      "〒980-0014 仙台市青葉区本町1-14-18 ライオンズプラザ本町ビル７Ｆ\r\n電話：022-227-0391／FAX：022-227-0395",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1690.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "支社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "35.15890399",
+      "136.9067411",
+      "中部支社\n",
+      "〒460-0011 　名古屋市中区大須4-10-40 　カジウラテックスビル５Ｆ\r\n電話：052-262-0821／FAX：052-262-0825",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1691.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "支社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "34.68128698",
+      "135.5077083",
+      "関西支社\r\n",
+      "〒541-0056 　大阪市中央区久太郎町1-6-27 　ヨシカワビル７Ｆ\r\n電話：06-6261-9221／FAX：06-6261-9401",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1692.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "支社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "34.38821682",
+      "132.45456",
+      "中国支社\r",
+      "〒730-0051 　広島市中区大手町3-7-2 　あいおい損保広島ビル５Ｆ\r\n電話：082-249-6033／FAX：082-249-6040",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1694.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "支社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "33.84323429",
+      "132.7713038",
+      "四国支社\r",
+      "〒790-0004 　松山市大街道3-6-1 　岡崎産業ビル５Ｆ\n電話：089-943-7193／FAX：089-943-7134",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1695.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "支社",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "33.59216164",
+      "130.4306255",
+      "九州支社\r",
+      "〒812-0007　福岡市博多区東比恵 2-11-30 クレセント東福岡Ｅ室\n電話：092-433-5100／FAX：092-433-5140",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/2363.html"
+    ],
+    [
+      "2022/06/15 0:00:00",
+      "営業所",
+      "https://www.kyoiku-shuppan.co.jp/company/img/logo-NAMEmark.png",
+      "26.20122753",
+      "127.6622999",
+      "沖縄営業所\n",
+      "〒901-0155 　那覇市金城3-8-9 　一粒ビル３Ｆ\n電話：098-859-1411／FAX：098-859-1411",
+      "",
+      "",
+      "https://www.kyoiku-shuppan.co.jp/company/cate3/1697.html"
+    ]
+  ]
 }
